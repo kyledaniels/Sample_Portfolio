@@ -15,3 +15,9 @@ header {
  h1 {
    color: Azure;
  }
+
+ body {
+     font-family: Georgia;
+     background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+ }
+
